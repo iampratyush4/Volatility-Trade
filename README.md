@@ -2,7 +2,7 @@
 ---
 
 **VOLATILITY MISPRICING STRATEGY**  
-*(Inspired by Question 2.13 from* Heard on the Street*)  
+
 
 ---
 
