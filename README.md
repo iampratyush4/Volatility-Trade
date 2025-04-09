@@ -8,7 +8,7 @@
 
 **1. Overview**
 
-This project simulates a trading opportunity based on volatility mispricing in financial markets. The idea comes from a conceptual error described in Question 2.13 of *Heard on the Street* by Timothy Crack.
+This project simulates a trading opportunity based on volatility mispricing in financial markets.
 
 In real markets, volatility is often estimated from daily returns and then scaled up to price options with longer expiries (like 1 month or 3 months). However, this assumes that returns are independent and identically distributed (i.i.d.). If they aren’t — and the actual realized monthly volatility is significantly higher — then the options will be **underpriced** when using scaled-up daily vol.
 
