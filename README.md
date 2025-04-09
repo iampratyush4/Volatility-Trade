@@ -87,5 +87,3 @@ If you find that actual realized volatility (e.g., from monthly returns) is **co
 This is a form of **volatility arbitrage**, and this simple project demonstrates how even a clean theoretical model like Black-Scholes can mislead if the inputs are wrong.
 
 ---
-
-L
